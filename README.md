@@ -1,0 +1,2 @@
+# teachmesenpai
+Classadoo generated repo
