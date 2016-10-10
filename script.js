@@ -1,3 +1,3 @@
 $("#input").keydown(function(){
-  console.log("Hi!")
+  console.log("Hi!");
 });
