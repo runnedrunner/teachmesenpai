@@ -1,2 +1,6 @@
-function doStuff(name) 
+function doStuff(name) {
+  console.log(name.toString());
+}
+
+doStuff(doStuff);
 
