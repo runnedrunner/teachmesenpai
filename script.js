@@ -1,3 +1,3 @@
-$("input").keydown(function(){
-  $("input").css("background-color", "yellow");
+$("#input").keydown(function(){
+  console.log("Hi!")
 });
