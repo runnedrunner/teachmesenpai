@@ -1,4 +1,2 @@
-function hi(name) {  
-  console.log(name.length);
-}
-hi("操");
+function doStuff(name) 
+
