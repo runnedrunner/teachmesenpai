@@ -1,5 +1,7 @@
-$( "#stuff" ).click(function() {
-  console.log("stuff");
+$(document).ready(function() {
+  $( "#stuff" ).click(function() {
+    console.log("stuff");
+  });
 });
 
 
