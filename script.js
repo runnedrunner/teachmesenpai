@@ -1,6 +1,7 @@
-function doStuff(name) {
-  console.log(name.toString());
-}
+$( "#stuff" ).click(function() {
+  console.log("stuff");
+});
 
-doStuff(doStuff);
+
+
 
