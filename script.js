@@ -1,3 +1,4 @@
 function hi(name) {  
-  console.log(name.length());
+  console.log(name.length);
 }
+hi(Austin);
