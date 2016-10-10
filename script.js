@@ -1,12 +1,5 @@
-function whenClicked() {
-  console.log("function run")
-  return "1111"
+function onClick() {
+  console.log("Asdf") 
 }
 
-var a = whenClicked()
-var b = whenClicked
-
-console.log(a.toString())
-console.log(b.toString())
-
-
+$("#stuff").click(onClick())
